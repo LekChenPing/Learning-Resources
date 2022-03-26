@@ -3,7 +3,7 @@ My learning resources for future references, followed with rating, comments and 
 
 ## Python
 ## C++
-## BlenderProc
+## Blender
 ## Robotic
 ## Android Studio
 ## RoboPlus
